@@ -1,0 +1,83 @@
+📋 Project Requirements
+🎤 Voice to Text Conversion using Python & Machine Learning
+🔹 Hardware Requirements
+
+💻 Computer / Laptop
+
+🎙️ Microphone (Inbuilt or External)
+
+🌐 Internet connection (for online speech recognition)
+
+🔹 Software Requirements
+
+🐍 Python 3.8 or above
+
+🧠 Machine Learning Libraries:
+
+SpeechRecognition
+
+PyAudio
+
+Vosk (for offline ML)
+
+Whisper (optional – Deep Learning)
+
+🔧 IDE / Editor:
+
+VS Code / PyCharm / Jupyter Notebook
+
+🖥️ Operating System:
+
+Windows / Linux / macOS
+
+🔹 Python Libraries
+SpeechRecognition
+pyaudio
+vosk
+numpy
+torch (for Whisper – optional)
+
+🔹 Dataset / Model Requirements
+
+Pre-trained ML speech models
+
+Google Speech API (online)
+
+Vosk acoustic model (offline)
+
+Whisper Transformer model (deep learning)
+
+No manual dataset training required.
+
+🔹 Functional Requirements
+
+Capture voice input from microphone
+
+Convert speech into text accurately
+
+Display recognized text output
+
+Handle unknown or unclear speech
+
+🔹 Non-Functional Requirements
+
+Fast response time
+
+High recognition accuracy
+
+User-friendly execution
+
+Reliable error handling
+
+🔹 Project Scope
+
+Real-time speech recognition
+
+Can be extended to:
+
+Voice assistant
+
+AI chatbot
+
+Multilingual speech recognition
+
